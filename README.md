@@ -233,3 +233,6 @@ Table 6- Remaining columns from Table 5. List of potentially damaging/pathogenic
 <p>[5]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; “wANNOVAR.” https://wannovar.wglab.org/ (accessed Nov. 29, 2021).</p>
 
 <p>[6]          “AlphaFold Protein Structure Database.” https://alphafold.ebi.ac.uk/entry/Q8N1F7 (accessed Nov. 27, 2021).</p>
+
+
+Please give reference if you take help from this work
