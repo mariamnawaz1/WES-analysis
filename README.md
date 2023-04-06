@@ -235,4 +235,4 @@ Table 6- Remaining columns from Table 5. List of potentially damaging/pathogenic
 <p>[6]          “AlphaFold Protein Structure Database.” https://alphafold.ebi.ac.uk/entry/Q8N1F7 (accessed Nov. 27, 2021).</p>
 
 
-<br />**Please give reference if you take help from this work**
+<br />**Please cite this work if you take help from it**
